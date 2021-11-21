@@ -80,7 +80,7 @@ img{
 
 .hero-text {
     font-size: 2rem;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .portfolio-container {
@@ -90,7 +90,7 @@ img{
 .portfolio-container h1 {
     font-size: 2rem;
     line-height: 2rem;
-    color: rgba(126, 16, 199, 0.144);
+    color: rgb(126, 16, 199);
 }
 
 .portfolio-gallery {
